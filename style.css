@@ -1,0 +1,56 @@
+ .cabecalho {
+  padding-left: 20px;
+ }
+ 
+ 
+ .title {
+  text-align: center;
+  font-size: 80px;
+
+}
+
+p {
+  text-align: center; 
+  font-size: 30px;
+}
+
+.missao {
+  color: #B22222;
+}
+
+.banner {
+  width: 100%;
+  height: auto;
+}
+
+.lista {
+  font-style: italic;
+
+}
+
+.beneficios {
+  background: #ffffff;
+  padding: 20px;
+
+}
+
+.principal {
+  background: #cccccc ;
+  padding: 30px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.imagembeneficios {
+  width: 50%;
+  
+}
+
+ul {
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 15%;
+}
